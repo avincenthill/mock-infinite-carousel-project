@@ -9,7 +9,6 @@ import Twilio from "../svgs/twilio.svg"
 import GoogleSheets from "../svgs/google-sheets.svg"
 import Oracle from "../svgs/oracle.svg"
 import Jira from "../svgs/jira.svg"
-// TBD: complete rest of data entry
 
 const integrations = [
     {

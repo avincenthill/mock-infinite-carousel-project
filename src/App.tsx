@@ -5,7 +5,6 @@ import styled from 'styled-components';
 import TwilioLarge from "./svgs/twilioLarge.svg"
 import X from "./svgs/x.svg"
 
-
 const StyledAppContainer = styled.div`
   display: flex;
   justify-content: center;
