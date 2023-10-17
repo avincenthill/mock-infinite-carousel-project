@@ -1,3 +1,6 @@
+https://github.com/avincenthill/mock-infinite-carousel-project/assets/16860536/a42b7fb6-ff93-4c7b-b9c4-1e92e9e2260f
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
