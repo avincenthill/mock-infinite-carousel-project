@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+@keyframes movePills {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-174%);
+  }
+}
